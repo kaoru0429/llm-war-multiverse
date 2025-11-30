@@ -33,6 +33,24 @@
 7. [2025 新秩序](docs/06-new-order/index.md)
 8. [未來展望](docs/07-hope/index.md)
 
+---
+
+## ✅ 實驗已完成 (8/8 Challenges Completed)
+
+### 📊 核心發現：知識累積效應驗證成功
+本實驗（從 C-01 到 C-08）證明了透過 **Code Wiki** 進行的知識結構化與複用，能顯著提升軟體開發效率，終結「無限失敗循環」。後期挑戰的開發速度呈現指數級提升。
+
+### 🔗 訪問連結
+*   **GitHub 儲存庫**: [https://github.com/kaoru0429/llm-war-multiverse](https://github.com/kaoru0429/llm-war-multiverse)
+*   **Code Wiki 互動模式**: 本 Gemini CLI Agent 已載入專案知識，可直接對話查詢。
+
+### 📄 元分析報告
+*   [知識累積驗證實驗：完整報告](meta/final-experiment-report.md)
+
+---
+
+
+
 ## ⚠️ 注意事項
 本專案的部分詳細歷史數據需要您提供原始文本以進行填充。目前的文檔為結構化骨架，包含了基於 2025 年視角的歷史推演。
 
