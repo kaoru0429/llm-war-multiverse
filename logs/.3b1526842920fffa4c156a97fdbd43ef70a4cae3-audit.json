@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\yusei\\llm-architecture-war\\llm-war-multiverse\\logs\\.3b1526842920fffa4c156a97fdbd43ef70a4cae3-audit.json",
+    "files": [
+        {
+            "date": 1764473444508,
+            "name": "C:\\Users\\yusei\\llm-architecture-war\\llm-war-multiverse\\logs\\mcp-puppeteer-2025-11-30.log",
+            "hash": "4eeefbb9e9c8d5acf21f42365141f8c5ecc4bc1978414ef3b53b4219b4fdf1c9"
+        }
+    ],
+    "hashType": "sha256"
+}

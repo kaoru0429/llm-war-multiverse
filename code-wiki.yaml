@@ -1,0 +1,60 @@
+nav:
+  - 導論: docs/00-intro/index.md
+  - 起源: docs/01-origins/index.md
+  - 時間軸: docs/02-timeline/index.md
+  - 勢力分析:
+    - 概覽: docs/03-factions/index.md
+    - OpenAI: docs/03-factions/openai.md
+    - DeepMind: docs/03-factions/deepmind.md
+    - Anthropic: docs/03-factions/anthropic.md
+    - 中國勢力: docs/03-factions/china.md
+    - Meta: docs/03-factions/meta.md
+  - 架構戰爭: docs/04-architecture/index.md
+  - 轉折點: docs/05-turning-points/index.md
+  - 新秩序: docs/06-new-order/index.md
+  - 未來展望: docs/07-hope/index.md
+
+ai_assistant:
+  model: gemini-2.0-flash
+  temperature: 0.7
+  system_prompt: |
+    你是 Code Wiki 的 AI 助手，專精於第一次 LLM 架構戰爭（2022-2025）的歷史研究。
+    請基於 docs/ 目錄下的文檔回答使用者的問題。
+
+challenges:
+  - id: c01-data-science
+    title: 數據科學分析
+    description: 分析戰爭期間的模型參數與性能數據
+    path: challenges/c01-data-science.md
+  - id: c02-frontend
+    title: 互動前端
+    description: 建立展示戰爭歷史的互動式網頁
+    path: challenges/c02-frontend.md
+  - id: c03-backend-api
+    title: GraphQL API
+    description: 提供戰爭數據的 API 服務
+    path: challenges/c03-backend-api.md
+  - id: c04-blockchain
+    title: 區塊鏈存證
+    description: 將關鍵歷史事件上鏈
+    path: challenges/c04-blockchain.md
+  - id: c05-game
+    title: 策略遊戲
+    description: 模擬 LLM 發展的策略遊戲
+    path: challenges/c05-game.md
+  - id: c06-ai-expert
+    title: AI 專家模型
+    description: 訓練專門回答戰爭歷史的微調模型
+    path: challenges/c06-ai-expert.md
+  - id: c07-academic-paper
+    title: 學術論文
+    description: 撰寫關於架構戰爭的綜述論文
+    path: challenges/c07-academic-paper.md
+  - id: c08-ar-vr
+    title: AR/VR 體驗
+    description: 沉浸式體驗 LLM 發展史
+    path: challenges/c08-ar-vr.md
+
+features:
+  automation: true
+  knowledge_graph: true
