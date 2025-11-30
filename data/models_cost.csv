@@ -1,0 +1,11 @@
+model_name,company,training_cost_usd,release_date,architecture_type,notes
+GPT-4,OpenAI,100000000,2023-03-14,Dense,Estimated cost commonly cited
+DeepSeek V3,DeepSeek,5500000,2024-12-25,MoE,Official technical report
+Kimi K2,Moonshot AI,4600000,2025-07-01,MoE,Perplexity integration data
+Llama 4 Maverick,Meta,15000000,2025-04-01,MoE,Estimated based on 83% reduction vs Llama 3
+GPT-5,OpenAI,200000000,2025-06-01,MoE (Rumored),Estimated
+Gemini 1.0 Ultra,Google,191000000,2023-12-06,Dense,Estimated
+Gemini 3,Google,80000000,2025-11-15,Hybrid MoE,Estimated
+Claude 3 Opus,Anthropic,150000000,2024-03-04,Dense,Estimated
+Llama 3 70B,Meta,20000000,2024-04-18,Dense,Estimated
+Stargate Project,OpenAI,500000000000,2029-01-01,Data Center,Projected total investment (not single model)

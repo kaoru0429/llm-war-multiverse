@@ -1,0 +1,15 @@
+model_name,benchmark_name,score,date,category
+Kimi K2 Thinking,Humanity's Last Exam,44.9,2025-07,Reasoning
+GPT-5,Humanity's Last Exam,41.7,2025-06,Reasoning
+Claude Sonnet 4.5,Humanity's Last Exam,32.0,2025-05,Reasoning
+Kimi K2,BrowseComp,60.2,2025-07,Web Agent
+GPT-5,BrowseComp,54.9,2025-06,Web Agent
+Claude Sonnet 4.5,BrowseComp,24.1,2025-05,Web Agent
+Kimi K2,HMMT 2025,96.7,2025-07,Math
+GPT-5,HMMT 2025,95.1,2025-06,Math
+GPT-5,SWE-bench Verified,74.9,2025-06,Coding
+Kimi K2,SWE-bench Verified,71.3,2025-07,Coding
+Claude Sonnet 4,SWE-bench Verified,72.7,2025-05,Coding
+DeepSeek V3,SWE-bench Verified,38.8,2024-12,Coding
+Gemini 3,HumanEval,91.7,2025-11,Coding
+DeepSeek V3,HumanEval,85.0,2024-12,Coding

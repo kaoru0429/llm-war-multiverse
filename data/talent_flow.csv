@@ -1,0 +1,13 @@
+person_name,from_company,to_company,date,role,reason
+Dario Amodei,OpenAI,Anthropic,2021-01,VP of Research,Safety concerns (Microsoft investment)
+Daniela Amodei,OpenAI,Anthropic,2021-01,VP of Safety,Founding Team
+Tom Brown,OpenAI,Anthropic,2021-01,Member of Technical Staff,Founding Team (GPT-3 Lead)
+Chris Olah,OpenAI,Anthropic,2021-01,Research Lead,Founding Team
+Sam McCandlish,OpenAI,Anthropic,2021-01,Research Lead,Founding Team
+Jack Clark,OpenAI,Anthropic,2021-01,Policy Director,Founding Team
+Jared Kaplan,OpenAI,Anthropic,2021-01,Research Consultant,Founding Team (Scaling Laws)
+Ilya Sutskever,OpenAI,SSI (Safe Superintelligence),2024-05,Chief Scientist,Safety prioritization
+Jan Leike,OpenAI,Anthropic,2024-05,Superalignment Lead,Safety culture concerns
+John Schulman,OpenAI,Anthropic,2024-08,Co-founder,Focus on Alignment
+Andrej Karpathy,OpenAI,Eureka Labs,2024-02,Founding Member,Education
+Mira Murati,OpenAI,Unknown,2024-09,CTO,Leadership changes
